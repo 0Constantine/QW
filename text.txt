@@ -1,0 +1,9 @@
+Explanation about code
+Folder Number 1 
+    1 : number of Slides_ the  코인스테이트 0일 때 동작하고, 뒤에 부분은 코인스테이트가 1일 때 동작한다.
+
+Forder Number 2
+
+
+
+Forder Number 3
